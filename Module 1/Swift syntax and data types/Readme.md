@@ -75,3 +75,33 @@ let isNot = !true // Logical NOT
 ```
 
 By mastering the basic syntax and data types in Swift, you will be well on your way to becoming a proficient Swift programmer.
+
+
+
+
+### Exercise: Temperature Converter
+
+Create a Swift program that converts temperatures between Celsius and Fahrenheit. The program should prompt the user for the temperature and the unit of measurement (Celsius or Fahrenheit), then convert the temperature to the other unit of measurement and display the result.
+
+Here's an example of how the program should work:
+
+```
+Enter the temperature: 32
+Is the temperature in Celsius or Fahrenheit? (C/F): F
+32°F is equal to 0°C
+```
+
+To complete this exercise, you will need to use variables and constants to store the user's input and the converted temperature, conditional statements to determine the conversion formula, and arithmetic operators to perform the conversion.
+
+Here's some starter code to help you get started:
+
+```swift
+print("Enter the temperature:")
+// Use the readLine() function to read the user's input
+// Store the temperature and unit of measurement in variables or constants
+// Use conditional statements to determine the conversion formula
+// Use arithmetic operators to perform the conversion
+// Display the result using string interpolation
+```
+
+Good luck, and have fun!
