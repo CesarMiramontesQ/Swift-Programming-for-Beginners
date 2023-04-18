@@ -71,3 +71,21 @@ task.resume()
 ### Conclusion
 
 Overall, URLSession is a powerful tool for iOS and macOS developers to interact with web services. By mastering the URLSession framework, developers can create powerful network requests, handle responses and errors, and download data asynchronously.
+
+
+
+### Exercise
+
+In this exercise, you will use URLSession to retrieve JSON data from a web service and parse it into a Swift object. 
+
+1. Create a new project in Xcode and add a new Swift file. 
+2. Define a struct called `User` that has properties for a username, email, and phone number. 
+3. In the `viewDidLoad()` method of a view controller, use URLSession to retrieve the JSON data from the following URL: `https://jsonplaceholder.typicode.com/users`
+4. Parse the JSON data into an array of `User` objects.
+5. Display the array of `User` objects in a table view.
+
+Hint: Use the `JSONSerialization` class to parse the JSON data into an array of dictionaries. Loop through the array of dictionaries, create a new `User` object for each dictionary, and add it to an array. Finally, reload the table view data to display the array of `User` objects.
+
+### Bonus Exercise
+
+Extend the `User` struct to include a method that returns a formatted string containing the user's name and phone number, separated by a hyphen. Use this method to display the user information in the table view cell.
