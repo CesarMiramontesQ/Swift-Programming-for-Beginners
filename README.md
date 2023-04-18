@@ -1,2 +1,2 @@
-# Swift-Programming-for-Beginners
-This course is designed to teach you the fundamentals of Swift programming, from basic syntax and data types to more advanced concepts.
+# Swift Programming for Beginners
+This course is designed to teach you the fundamentals of Swift programming, from basic syntax and data types to more advanced concepts like object-oriented programming and working with APIs. You will learn through a combination of lecture and hands-on programming exercises, and by the end of the course, you will have the skills to create your own Swift applications.
