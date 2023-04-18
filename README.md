@@ -1,5 +1,7 @@
 # Swift Programming for Beginners
 
+![Curso Swift](https://user-images.githubusercontent.com/25210345/232923899-3ad32cf9-1845-480b-892d-e704cf930ec6.jpg)
+
 ## Course Description:
 
 This course is designed to teach you the fundamentals of Swift programming, from basic syntax and data types to more advanced concepts like object-oriented programming and working with APIs. You will learn through a combination of lecture and hands-on programming exercises, and by the end of the course, you will have the skills to create your own Swift applications.
